@@ -1,2 +1,2 @@
-# receip-app-api
+# recepi-app-api
 Recipe App API
